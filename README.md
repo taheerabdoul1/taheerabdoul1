@@ -1,7 +1,7 @@
 
 # 💫 About Me:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3A244A&width=435&lines=Hey+There,+I+am+Tahir+Abdullahi+Usman+,;A+Web+Developer,+;and+a+tech+enthusiast.)](https://git.io/typing-svg)<br>
-<!-- Hi there, 👋 I am Tahir Abdullahi Usman<br>I am a web developer, and a tech enthusiast, and love exploring tech skills.<br> -->
+<!-- Hi there, 👋 I am Tahir Abdullahi Usman <br>I am a web developer, and a tech enthusiast, and love exploring tech skills.<br> -->
 <br> <img src="github-banner-image.png" alt="Banner about Tahir Abdullahi Usman">
 
 <br>🔭 I’m currently working on building projects to help solve business problems.<br>🌱 Always enhancing my developer skills and data sciences with machine learning algorithm operators.<br>👯 I love innovations and creativity.<br>💬 Ask me about anything tech<br>📫 To reach me: email me at: taheerabdoul001@gmail.com<br>😄 Pronouns: He<br>⚡ Fun fact: I love eating -->
