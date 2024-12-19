@@ -4,7 +4,7 @@
 <!-- Hi there, 👋 I am Tahir Abdullahi Usman<br>I am a web developer, and a tech enthusiast, and love exploring tech skills.<br> -->
 <br> <img src="github-banner-image.png" alt="Banner about Tahir Abdullahi Usman">
 
-<br>🔭 I’m currently working on building projects to help solve business problems.<br>🌱 Always enhancing my developer skills and data sciences with machine learning algorithm operators.<br>👯 I love innovations and creativity.<br>💬 Ask me about anything tech<br>📫 To reach me: email me at: juwairiyyasadiq@gmail.com<br>😄 Pronouns: He<br>⚡ Fun fact: I love eating -->
+<br>🔭 I’m currently working on building projects to help solve business problems.<br>🌱 Always enhancing my developer skills and data sciences with machine learning algorithm operators.<br>👯 I love innovations and creativity.<br>💬 Ask me about anything tech<br>📫 To reach me: email me at: taheerabdoul001@gmail.com<br>😄 Pronouns: He<br>⚡ Fun fact: I love eating -->
 
 
 ## 🌐 Socials:
